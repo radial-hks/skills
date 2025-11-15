@@ -1,2 +1,7 @@
 .DS_Store
-
+output/*
+configs/*
+skill_/
+.claude/
+*.zip
+docs/*
